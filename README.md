@@ -130,9 +130,11 @@ To run the project, use Jupyter Notebook:
 **WiDS challenge:**
 
 1. **What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?**
+
    ADHD is commonly characterized by atypical brain activity patterns, particularly in regions responsible for attention, inhibition, and executive functions, such as the prefrontal cortex. Our analysis explored whether these patterns vary between sexes, and we found that there are indeed differences in brain activity between males and females with ADHD. These differences could be linked to how symptoms manifest, with males often exhibiting more hyperactive behaviors and females tending to have more inattentive symptoms. Identifying these sex-based differences in brain activity could lead to more tailored interventions that take into account the unique ways ADHD presents in different genders.
    
 2. **How could your work help contribute to ADHD research and/or clinical care?**
+
    The insights from our models, which integrate brain activity data with machine learning, have the potential to contribute to ADHD research by providing a more accurate and nuanced understanding of the disorder. By developing predictive models that take into account sex-based differences, we could help clinicians identify ADHD earlier and more accurately, especially in cases where traditional diagnostic criteria might overlook gender-specific manifestations of the disorder. This could lead to more personalized and effective treatment plans, ultimately improving clinical care and outcomes for individuals with ADHD. Additionally, our work could be a stepping stone for further research into the biological markers of ADHD and how they relate to behavioral symptoms.
 
 ---
