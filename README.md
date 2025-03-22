@@ -129,7 +129,6 @@ To run the project, use Jupyter Notebook:
 * **Outputs from fairness or explainability tools**: Tools like SHAP or LIME can be used to assess feature importance and fairness across different subgroups, providing more interpretability to the model’s decision-making process.
 
 * ![image](https://github.com/user-attachments/assets/cc8b37ff-c98e-4885-90b3-9200ed588b4b)
-* ![image](https://github.com/user-attachments/assets/17bc3ce8-8141-4563-931b-036be30b9f18)
 * ![image](https://github.com/user-attachments/assets/3b08fe27-ae2d-4f90-900e-285e9d42d959)
 
 
