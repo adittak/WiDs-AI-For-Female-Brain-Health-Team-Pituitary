@@ -1,6 +1,4 @@
-# GitHub Kaggle Project README Template
-
-⚠️ _Remember to update the above title and remove all guidance notes and examples in this template, before finalizing your README_
+# Team Pituitary: WiDS AI For Female Brain Health
 
 ---
 
@@ -8,9 +6,10 @@
 
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
-| Alice Doe | @AliceDoe | Built CNN model, performed data augmentation |
-| Mel Ramakrishnan | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
-| Charlie Nguyen | @CharlieN | Implemented explainability tools |
+| Fariha Kha | @FarihaKha | Built XGBoost model, led data cleaning, contributed to visualizations, project managed on Notion|
+| Aditta Kirttania | @adittak | Built LightGBM model, led feature engineering and preprocessing |
+| Jocelyn Wang | @IJOCELYN | Built Linear Regression model, led data visualization and debugging |
+| Grace Wang | @gracwng | Built k-Nearest Neighbor model |
 
 ---
 
