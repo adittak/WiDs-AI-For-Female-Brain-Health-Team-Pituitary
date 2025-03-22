@@ -7,9 +7,9 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 | Fariha Kha | [@FarihaKha](https://github.com/FarihaKha) | Built XGBoost model, led data cleaning and visualizations, project managed on Notion|
-| Aditta Kirttania | @adittak | Built LightGBM model, led feature engineering and preprocessing |
-| Jocelyn Wang | @IJOCELYN | Built Linear Regression model, led debugging errors |
-| Grace Wang | @gracwng | Built k-Nearest Neighbor model |
+| Aditta Kirttania | [@adittak](https://github.com/adittak) | Built LightGBM model, led feature engineering and preprocessing |
+| Jocelyn Wang | [@IJOCELYN](http://github.com/IJOCELYN) | Built Linear Regression model, led debugging errors |
+| Grace Wang | [@gracwng](http://github.com/gracwng) | Built k-Nearest Neighbor model |
 
 ---
 
