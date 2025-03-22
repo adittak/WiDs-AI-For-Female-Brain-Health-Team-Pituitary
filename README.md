@@ -17,7 +17,7 @@
 
 **Example:**
 
-* Built a \[LightGBM\] using \[techniques used\] to solve \[Kaggle competition task\]
+* Built a \LightGBM\ using \[techniques used\] to solve \[Kaggle competition task\]
 * Achieved an F1 score of \[0.8722\] and a ranking of \[526\] on the final Kaggle Leaderboard
 * Used \[explainability tool\] to interpret model decisions
 * Implemented \[data preprocessing method\] to optimize results within compute constraints
