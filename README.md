@@ -83,8 +83,7 @@ To run the project, use Jupyter Notebook:
 * **Heatmaps**: Correlation heatmaps to explore relationships between different brain activity features and ADHD diagnosis
 * **Feature Visualizations**: Visualizing the most important features in the model, such as top predictors of ADHD or sex, using techniques like SHAP values or feature importance graphs
 
-* ![image](https://github.com/user-attachments/assets/9654cbf9-7da5-43bc-9f37-0fadf4b974ee)
-* ![image](https://github.com/user-attachments/assets/03a4218f-736c-4d82-8167-75f3efc235fc)
+* ![image](https://github.com/user-attachments/assets/9654cbf9-7da5-43bc-9f37-0fadf4b974ee) ![image](https://github.com/user-attachments/assets/03a4218f-736c-4d82-8167-75f3efc235fc)
 * ![image](https://github.com/user-attachments/assets/cee8f8b1-e69c-40e2-a57d-22819ff66085)
 
 
