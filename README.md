@@ -18,7 +18,7 @@
 **Example:**
 
 * Built a LightGBM model using hyperparameter tuning, feature engineering, cross-validation, and handling class imbalance to solve the WiDS Datathon 2025 challenge
-* Achieved an F1 score of 0.8722 and a ranking of 526 on the final Kaggle Leaderboard
+* Achieved an F1 score of 0.8722
 * Used LightGBM's built-in feature importance to interpret model decisions
 * Implemented feature engineering and data imputation to optimize results within compute constraints
 
@@ -32,7 +32,7 @@ To run this project and reproduce the results, follow the steps below:
 
 ### Clone the repository
 First, clone this repository to your local machine:
-git clone https://github.com/IJOCELYN/WiDs-AI-For-Female-Brain-Health-Team-Pituitary.git cd WiDS-AI-For_Female-Brain-Health-Team-Pituitary
+git clone https://github.com/adittak/WiDs-AI-For-Female-Brain-Health-Team-Pituitary.git cd WiDS-AI-For_Female-Brain-Health-Team-Pituitary
 
 ### Install dependencies
 Make sure you have Python 3.x installed. Then, install the required dependencies using `pip`:
